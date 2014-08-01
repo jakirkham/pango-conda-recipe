@@ -10,6 +10,10 @@ source:
 build:
   number: 0
 
+requirements:
+  build:
+    - cairo
+
 about:
   home: http://www.pango.org
   license: GNU Lesser General Public License (LGPL) version 2.1 or the Mozilla Public License (MPL) version 1.1 at your option.
